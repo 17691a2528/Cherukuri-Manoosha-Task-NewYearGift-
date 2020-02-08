@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-16"?>
+
+-<gift>
+
+
+-<item sugar="22.8">
+
+<name>Waffles</name>
+
+<weight>71.0</weight>
+
+</item>
+
+
+-<item sugar="26.9">
+
+<name>DesertChocolate</name>
+
+<weight>115.6</weight>
+
+</item>
+
+
+-<item sugar="29.5">
+
+<name>Chewy</name>
+
+<weight>119.2</weight>
+
+</item>
+
+
+-<item sugar="37.8">
+
+<name>Caramel</name>
+
+<weight>199.1</weight>
+
+</item>
+
+
+-<item sugar="39.1">
+
+<name>Chewy</name>
+
+<weight>141.0</weight>
+
+</item>
+
+
+-<item sugar="39.3">
+
+<name>DesertChocolate</name>
+
+<weight>54.9</weight>
+
+</item>
+
+
+-<item sugar="44.5">
+
+<name>Caramel</name>
+
+<weight>181.5</weight>
+
+</item>
+
+
+-<item sugar="46.6">
+
+<name>DarkChocolate</name>
+
+<weight>179.6</weight>
+
+</item>
+
+
+-<item sugar="52.3">
+
+<name>DarkChocolate</name>
+
+<weight>184.4</weight>
+
+</item>
+
+
+-<item sugar="55.0">
+
+<name>DarkChocolate</name>
+
+<weight>180.5</weight>
+
+</item>
+
+
+-<item sugar="57.3">
+
+<name>Caramel</name>
+
+<weight>168.6</weight>
+
+</item>
+
+
+-<item sugar="57.9">
+
+<name>WhiteChocolate</name>
+
+<weight>67.5</weight>
+
+</item>
+
+
+-<item sugar="61.4">
+
+<name>Chewy</name>
+
+<weight>189.2</weight>
+
+</item>
+
+
+-<item sugar="62.1">
+
+<name>Chewy</name>
+
+<weight>74.0</weight>
+
+</item>
+
+
+-<item sugar="62.5">
+
+<name>Halva</name>
+
+<weight>50.5</weight>
+
+</item>
+
+
+-<item sugar="69.7">
+
+<name>Chewy</name>
+
+<weight>121.6</weight>
+
+</item>
+
+
+-<item sugar="76.6">
+
+<name>Caramel</name>
+
+<weight>121.2</weight>
+
+</item>
+
+
+-<item sugar="76.9">
+
+<name>Chewy</name>
+
+<weight>50.0</weight>
+
+</item>
+
+
+-<item sugar="77.0">
+
+<name>Halva</name>
+
+<weight>137.6</weight>
+
+</item>
+
+
+-<item sugar="79.2">
+
+<name>DesertChocolate</name>
+
+<weight>105.3</weight>
+
+</item>
+
+</gift>
